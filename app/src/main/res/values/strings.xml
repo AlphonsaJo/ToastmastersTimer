@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toastmasters Timer</string>
+    <string name="timer">Timer</string>
+    <string name="script">Script</string>
+    <string name="log">Log</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="speaker_name">Speaker Name</string>
+    <string name="speech_name">Speech Name / Speaker Number</string>
+</resources>
